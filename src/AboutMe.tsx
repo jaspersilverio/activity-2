@@ -5,14 +5,11 @@ const AboutMe: React.FC = () => {
     <div className="AboutMe">
       <h1>About Me</h1>
       <p>
-        Hello, my name is Jasper Ivan Silverio. I am currently a 3rd-year
-        college student pursuing a Bachelor of Science in Information
-        Technology at Filamer Christian University.
+        Hello, my name is Ashley Aragon. I am a third-year college student at Filamer Christian University,<br></br>currently pursuing a Bachelor of Science in Information Technology.
       </p>
       <p>
-        I am passionate about learning new technologies and exploring the world
-        of IT. In my free time, I enjoy reading tech articles, experimenting
-        with coding projects, and spending time with friends.
+        I have a strong passion for discovering new technologies and delving deeper into the ever-evolving world of IT.<br>
+        </br>I enjoy watching movies and hanging out with friends.
       </p>
     </div>
   );
